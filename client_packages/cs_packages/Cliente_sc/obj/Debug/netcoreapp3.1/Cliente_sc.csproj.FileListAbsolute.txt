@@ -1,0 +1,10 @@
+C:\RAGEMP\server-files\client_packages\cs_packages\Cliente_sc\bin\Debug\netcoreapp3.1\Cliente_sc.deps.json
+C:\RAGEMP\server-files\client_packages\cs_packages\Cliente_sc\bin\Debug\netcoreapp3.1\Cliente_sc.dll
+C:\RAGEMP\server-files\client_packages\cs_packages\Cliente_sc\bin\Debug\netcoreapp3.1\Cliente_sc.pdb
+C:\RAGEMP\server-files\client_packages\cs_packages\Cliente_sc\obj\Debug\netcoreapp3.1\Cliente_sc.csproj.AssemblyReference.cache
+C:\RAGEMP\server-files\client_packages\cs_packages\Cliente_sc\obj\Debug\netcoreapp3.1\Cliente_sc.GeneratedMSBuildEditorConfig.editorconfig
+C:\RAGEMP\server-files\client_packages\cs_packages\Cliente_sc\obj\Debug\netcoreapp3.1\Cliente_sc.AssemblyInfoInputs.cache
+C:\RAGEMP\server-files\client_packages\cs_packages\Cliente_sc\obj\Debug\netcoreapp3.1\Cliente_sc.AssemblyInfo.cs
+C:\RAGEMP\server-files\client_packages\cs_packages\Cliente_sc\obj\Debug\netcoreapp3.1\Cliente_sc.csproj.CoreCompileInputs.cache
+C:\RAGEMP\server-files\client_packages\cs_packages\Cliente_sc\obj\Debug\netcoreapp3.1\Cliente_sc.dll
+C:\RAGEMP\server-files\client_packages\cs_packages\Cliente_sc\obj\Debug\netcoreapp3.1\Cliente_sc.pdb

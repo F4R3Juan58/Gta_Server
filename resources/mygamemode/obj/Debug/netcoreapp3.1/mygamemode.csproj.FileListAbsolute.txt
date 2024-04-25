@@ -1,0 +1,12 @@
+C:\RAGEMP\server-files\dotnet\resources\mygamemode\bin\Debug\netcoreapp3.1\mygamemode.deps.json
+C:\RAGEMP\server-files\dotnet\resources\mygamemode\bin\Debug\netcoreapp3.1\mygamemode.dll
+C:\RAGEMP\server-files\dotnet\resources\mygamemode\bin\Debug\netcoreapp3.1\mygamemode.pdb
+C:\RAGEMP\server-files\dotnet\resources\mygamemode\obj\Debug\netcoreapp3.1\mygamemode.csproj.AssemblyReference.cache
+C:\RAGEMP\server-files\dotnet\resources\mygamemode\obj\Debug\netcoreapp3.1\mygamemode.Properties.Resources.resources
+C:\RAGEMP\server-files\dotnet\resources\mygamemode\obj\Debug\netcoreapp3.1\mygamemode.csproj.GenerateResource.cache
+C:\RAGEMP\server-files\dotnet\resources\mygamemode\obj\Debug\netcoreapp3.1\mygamemode.GeneratedMSBuildEditorConfig.editorconfig
+C:\RAGEMP\server-files\dotnet\resources\mygamemode\obj\Debug\netcoreapp3.1\mygamemode.AssemblyInfoInputs.cache
+C:\RAGEMP\server-files\dotnet\resources\mygamemode\obj\Debug\netcoreapp3.1\mygamemode.AssemblyInfo.cs
+C:\RAGEMP\server-files\dotnet\resources\mygamemode\obj\Debug\netcoreapp3.1\mygamemode.csproj.CoreCompileInputs.cache
+C:\RAGEMP\server-files\dotnet\resources\mygamemode\obj\Debug\netcoreapp3.1\mygamemode.dll
+C:\RAGEMP\server-files\dotnet\resources\mygamemode\obj\Debug\netcoreapp3.1\mygamemode.pdb

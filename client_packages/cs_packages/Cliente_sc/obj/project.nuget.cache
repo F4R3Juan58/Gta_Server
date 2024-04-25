@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p7FtZCu3TbNpXJJUmKRqyAeW4jSMGcXN4vzxGsdkV9cZo7QVG+NAIC+j0I8aXUCoxULuNxnox0bja9EQ/N8cig==",
+  "success": true,
+  "projectFilePath": "C:\\RAGEMP\\server-files\\client_packages\\cs_packages\\Cliente_sc\\Cliente_sc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juan5\\.nuget\\packages\\ragemp-ragesharp\\1.1.3\\ragemp-ragesharp.1.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

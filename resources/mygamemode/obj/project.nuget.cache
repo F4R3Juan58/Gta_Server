@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9QApN4z3amj2w6lYo/WMg1Ggvmc3/cIYLbK+ORVzIEXywIXmnfWdbPosPw4lWSquidW8XfXjRNEaisRj/Kp6XQ==",
+  "success": true,
+  "projectFilePath": "C:\\RAGEMP\\server-files\\dotnet\\resources\\mygamemode\\mygamemode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juan5\\.nuget\\packages\\gtanetwork.api\\1.1.0-dp1-2\\gtanetwork.api.1.1.0-dp1-2.nupkg.sha512"
+  ],
+  "logs": []
+}

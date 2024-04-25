@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: transparent;
+}
+
+.hud {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
+
+.health, .armor, .food, .drink {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+}
+
+.progress {
+    width: 100%;
+    height: 100%;
+    background-color: #333;
+    position: relative;
+}
+
+.bar {
+    height: 100%;
+    margin-right: 10px;
+    position: relative;
+    overflow: hidden;
+}
+
+#health-bar, #armor-bar, #food-bar, #drink-bar {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 100%;
+    width: 50px;
+    z-index: 1;
+    border-radius: 5%;
+    margin-left: 20px;
+}
+
+#health-bar {
+    background-image: linear-gradient(to top, rgba(255, 0, 0, 1) 0%, transparent 0%);
+    overflow: hidden;
+}
+
+#armor-bar {
+    background-image: linear-gradient(to top,  #00f 0%, transparent 0%);
+    overflow: hidden;
+    margin-left: 90px}
+
+#food-bar {
+    background-image: linear-gradient(to top,  #0f0 0%, transparent 0%);
+    overflow: hidden;    
+    margin-left: 160px}
+
+#drink-bar {
+    background-image: linear-gradient(to top,  #ff0 0%, transparent 0%);
+    overflow: hidden;
+    margin-left: 230px
+}
+
+#health-value, #armor-value, #food-value, #drink-value {
+    font-size: 18px;
+}
+
+.icon {
+    z-index: 99;
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: transparent;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
